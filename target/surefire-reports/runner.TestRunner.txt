@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.966 sec <<< FAILURE! - in runner.TestRunner
+TEST: Test1 program "10/0"(EMPTY_NAME)  Time elapsed: 0.193 sec  <<< ERROR!
+java.lang.IllegalArgumentException: Not dividible
+
